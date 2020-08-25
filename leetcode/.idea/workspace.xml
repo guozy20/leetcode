@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7e026faf-1762-42c9-802d-b249d194d48a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/guozy/leetcode/example/day01/Day01Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/guozy/leetcode/example/month202008/Day01Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/guozy/leetcode/example/day01/Day01Demo.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +57,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Day02Demo">
     <configuration name="Day01Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.guozy.leetcode.example.day01.Day01Demo" />
+      <option name="MAIN_CLASS_NAME" value="com.guozy.leetcode.example.month202008.Day01Demo" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.guozy.leetcode.example.day01.*" />
+          <option name="PATTERN" value="com.guozy.leetcode.example.month202008.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.guozy.leetcode.example.month202008.Day02Demo" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guozy.leetcode.example.month202008.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day02Demo" />
         <item itemvalue="Application.Day01Demo" />
       </list>
     </recent_temporary>
@@ -89,6 +105,7 @@
       <workItem from="1598250661693" duration="437000" />
       <workItem from="1598251152564" duration="2742000" />
       <workItem from="1598342798948" duration="52000" />
+      <workItem from="1598343581272" duration="4105000" />
     </task>
     <servers />
   </component>
@@ -100,7 +117,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
